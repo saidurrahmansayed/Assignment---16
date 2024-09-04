@@ -1,14 +1,3 @@
-// const submitButton = document.getElementById('submit-button');
-// console.log(submitButton);
-
-
-// const submitButton = document.getElementById('submit-button').addEventListener('click',function(){
-//     console.log('event added');
-    
-// });
-
-
-
 document.getElementById('submit-button').addEventListener('click',function(){
 
     // USER EMAIL GET
